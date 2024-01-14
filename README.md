@@ -11,6 +11,7 @@
 -  💻 Open to work 💚
 - 🤓 I’m currently learning Next.js and Typescript
 - 📫 How to reach me: uliakom@gmail.com
+- ☕️ How to buy me a [coffee](https://www.buymeacoffee.com/uliaska007)
 
 
 ## 🛠 Skills and Tools
